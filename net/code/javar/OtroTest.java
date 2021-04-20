@@ -1,4 +1,4 @@
-package net.code.javar;
+package net.code.javar; 
 
 public class OtroTest {
 	public int TestOtror()
