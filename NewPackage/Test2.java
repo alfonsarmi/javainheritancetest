@@ -10,3 +10,19 @@ public class Test2 extends SuperTest {
 		test.Test3();
 	}
 }
+
+class Test9
+{
+	private void test()
+	{
+		
+	}
+}
+
+class Test10 extends Test9
+{
+	private void test3()
+	{
+		
+	}
+}
