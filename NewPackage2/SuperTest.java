@@ -19,4 +19,13 @@ public class SuperTest {
 		OtroTest test = new OtroTest();
 		test.TestOtror();
 	}
+	
+	public SuperTest()
+	{}
+	
+	public SuperTest(int a, int b)
+	{
+		
+		
+	}
 }
